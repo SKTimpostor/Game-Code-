@@ -11,7 +11,7 @@
     justify-content: top;
     background-repeat: no-repeat;
     background-size:cover;
-    background-image: url('/img/fundo-vaca.jpg');
+    background-image: url('/img/fundo-vaca.png');
 }
 .section-principal img{
     margin-top: 120px;
