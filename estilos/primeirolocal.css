@@ -1,0 +1,21 @@
+.section-principal-01{
+    padding-top: 150px;
+    text-align: left;
+    color: #e1e6e3;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: top;
+    background-repeat: none;
+    background-size: cover;
+    background-image: url('../img/matrix-code-animation-gif-free-animated-background-716.gif');
+}
+.titulo-game-code{
+    font-size: 40px;
+}
+.section-principal-01 p{
+    font-size: 25px;
+    text-decoration:line-through;
+}

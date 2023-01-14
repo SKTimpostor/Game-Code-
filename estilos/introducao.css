@@ -1,0 +1,29 @@
+.titulo-introcucao{
+    text-decoration: underline;
+}
+.logo{
+    margin-bottom: 80px;
+}
+.secao-home{
+    font-weight: bold;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    padding: 5px;
+    background-color: #d4f7dc;
+    font-size: 20px;
+}
+
+.btn-start{
+    font-size: 20px;
+    padding: 20px 25px;
+    background-color: #5ccb5f;
+    border: none;
+    color: black;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-top: 20px;
+}

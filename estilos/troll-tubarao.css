@@ -1,0 +1,30 @@
+.section-principal{
+    padding: 0 5px;
+    padding-top: 150px;
+    text-align: center;
+    color: #e1e6e3;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('/img/fundo-bob-esponja.png');
+}
+.section-principal img{
+    margin-top: 20px;
+    width: 350px;
+    height: 300px;
+}
+
+.section-principal h1{
+    color: black;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.section-principal p{
+    color: black;
+    font-size: 30px;
+}
